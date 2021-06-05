@@ -1,0 +1,23 @@
+/*!
+   \mainpage  Dragonfly faza 1
+
+
+	\author  Damian Janusz
+   \date    05.06.2021
+   \version 1.0
+
+   Aplikacja ma za zadanie symulować przelot drona.
+
+   \section wazne-cechy Najważniejsze cechy
+
+   Umożliwia przelot wybranym z dwóch dronów, na zadaną odległość. Między dronami nie ma kolizji.
+   Dron najpierw unosi sie, potem obraza w dobrym kierunku inastępnie leci na zadaną odległość i
+   tam ląduje.
+
+  
+
+ */
+
+/*
+   
+*/

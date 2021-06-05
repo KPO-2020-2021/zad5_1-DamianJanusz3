@@ -1,4 +1,8 @@
-
+## Informacje na temat testów
+W klasach Scene i Drone znajdują się metody które uogólniając ruszają dronem, albo odpowiadają za
+kontakt z użytkownikiem. Nie mam pomysłu na ich testy a nawet zastanawiam się czy są one wykonalne.
+W pliku testowym cuboid.cpp testuję tak naprawdę odziedziczone metody klasy solid. Klasy Cuboid i
+Prism nie mają strikte swoich testów bo zawierają w sobie tylko konstruktor destruktor i wszystko od klasy Solid.
 ## Building
 
 Build by making a build directory (i.e. `build/`), run `cmake` in that dir, and then use `make` to build the desired target.
